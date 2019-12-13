@@ -1,0 +1,15 @@
+#server:
+#  port: 8080
+##redis
+#spring:
+#   redis:
+#    database: 0
+#    host: 192.168.56.102
+#    port: 6379
+#    jedis:
+#      pool:
+#        max-idle: 8
+#        min-idle: 0
+#        max-wait: -1
+#        max-active: 8
+#        timeout: 3000
